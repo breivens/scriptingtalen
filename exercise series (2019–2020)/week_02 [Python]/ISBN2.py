@@ -1,0 +1,8 @@
+
+def isISBN(code):
+    if not isinstance(code, str):
+        return False
+    if not code[:9].isdigit():
+        return False
+    x10 = sum(int(code[i])*(i+1) for i in range(9)) % 11
+    return (code[9] == "X" and x10 == 10) or str(x10) == code[9]

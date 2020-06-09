@@ -1,0 +1,15 @@
+color,significant digit,multiplicator,tolerance (%)
+NONE,-,-,20
+PINK,-,-3,-
+SILVER,-,-2,10
+GOLD,-,-1,5
+BLACK,0,0,-
+BROWN,1,1,1
+RED,2,2,2
+ORANGE,3,3,-
+YELLOW,4,4,-
+GREEN,5,5,0.5
+BLUE,6,6,0.25
+VIOLET,7,7,0.1
+GRAY,8,8,0.05
+WHITE,9,9,-

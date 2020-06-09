@@ -1,0 +1,28 @@
+Aix-en-Provence	124
+Amiens	132
+Angers	141
+Bordeaux	210
+Brest	148
+Clermont-Ferrand	136
+Dijon	147
+Grenoble	151
+Le Havre	196
+Le Mans	145
+Lille	172
+Limoges	133
+Lyon	415
+Marseille	800
+Metz	120
+Montpellier	208
+Nantes	245
+Nice	343
+Nimes	129
+Paris	2152
+Reims	181
+Rennes	197
+Saint-Etienne	200
+Strasbourg	252
+Toulon	168
+Toulouse	359
+Tours	130
+Villeurbanne	117

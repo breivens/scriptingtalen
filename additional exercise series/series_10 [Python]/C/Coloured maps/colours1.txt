@@ -1,0 +1,208 @@
+Canada	geel
+East Timor	grijs
+Turkmenistan	geel
+Lithuania	groen
+Cambodia	rood
+Saint Kitts and Nevis	grijs
+Ethiopia	geel
+The Gambia	blauw
+Swaziland	groen
+Belize	geel
+Argentina	blauw
+Bolivia	grijs
+Cameroon	rood
+Burkina Faso	rood
+Somaliland	geel
+Saudi Arabia	geel
+Japan	geel
+Cape Verde	geel
+Slovenia	rood
+Guatemala	groen
+Bosnia and Herzegovina	groen
+Guinea	blauw
+Germany	geel
+Dominica	geel
+Australia	blauw
+Liberia	grijs
+Maldives	groen
+Peter I Island	blauw
+Paraguay	rood
+Pakistan	blauw
+Oman	groen
+Tanzania	blauw
+Costa Rica	rood
+People's Republic of China	rood
+Gabon	geel
+Niue	grijs
+Monaco	rood
+New Zealand	grijs
+Yemen	blauw
+Jersey	grijs
+Jamaica	blauw
+Albania	geel
+Samoa	rood
+United Arab Emirates	blauw
+Côte d'Ivoire	geel
+Kosovo	grijs
+India	grijs
+Azerbaijan	blauw
+Madagascar	blauw
+Lesotho	grijs
+Saint Vincent and the Grenadines	geel
+Kenya	rood
+South Korea	grijs
+Tajikistan	groen
+Turkey	groen
+Afghanistan	grijs
+Bangladesh	geel
+Andorra	blauw
+Eritrea	blauw
+Solomon Islands	geel
+Saint Lucia	groen
+San Marino	grijs
+Mongolia	geel
+France	grijs
+Rwanda	grijs
+Slovakia	geel
+Somalia	blauw
+Peru	blauw
+Laos	geel
+Nauru	rood
+Norway	geel
+Malawi	groen
+Cook Islands	groen
+Benin	groen
+Federated States of Micronesia	groen
+Libya	groen
+Cuba	grijs
+Montenegro	blauw
+Republic of the Congo	grijs
+Togo	blauw
+Armenia	grijs
+Bahrain	rood
+Dominican Republic	groen
+Ukraine	blauw
+Ghana	groen
+Tonga	blauw
+Finland	blauw
+Western Sahara	grijs
+Indonesia	blauw
+Central African Republic	blauw
+Mauritius	groen
+Liechtenstein	blauw
+Vietnam	blauw
+Mali	grijs
+Vatican City	grijs
+Russia	grijs
+Bulgaria	blauw
+United States	grijs
+Romania	rood
+Angola	rood
+Chad	grijs
+South Africa	geel
+Fiji	geel
+Sweden	groen
+Malaysia	geel
+Austria	grijs
+Mozambique	rood
+Uganda	groen
+Hungary	groen
+Niger	blauw
+Brazil	geel
+Kuwait	groen
+Panama	groen
+Qatar	groen
+Luxembourg	groen
+Bahamas	groen
+Nagorno-Karabakh Republic	blauw
+Ireland	groen
+Italy	blauw
+Nigeria	geel
+Ecuador	groen
+Czech Republic	blauw
+Brunei	rood
+Belarus	geel
+Iran	rood
+Algeria	rood
+El Salvador	grijs
+Tuvalu	blauw
+Marshall Islands	rood
+Chile	rood
+Belgium	rood
+Kiribati	blauw
+Haiti	rood
+Iraq	blauw
+Sierra Leone	groen
+Georgia	rood
+Denmark	blauw
+Philippines	rood
+Moldova	geel
+Morocco	groen
+Croatia	grijs
+Guinea-Bissau	rood
+Thailand	groen
+Switzerland	groen
+Grenada	grijs
+Seychelles	rood
+Portugal	blauw
+Estonia	geel
+Uruguay	grijs
+Mexico	blauw
+Lebanon	blauw
+Northern Cyprus	geel
+Uzbekistan	blauw
+Egypt	geel
+Djibouti	rood
+Antigua and Barbuda	groen
+Spain	geel
+Colombia	grijs
+Burundi	groen
+Taiwan	geel
+Cyprus	grijs
+Barbados	geel
+Transnistria	blauw
+São Tomé and Príncipe	grijs
+Palau	rood
+Bhutan	blauw
+Sudan	rood
+Nepal	groen
+Malta	grijs
+Democratic Republic of the Congo	geel
+Netherlands	groen
+Suriname	groen
+Venezuela	groen
+Israel	rood
+Bouvet Island	groen
+Palestinian territories	geel
+Zambia	grijs
+Senegal	groen
+Papua New Guinea	geel
+Zimbabwe	blauw
+Jordan	grijs
+Vanuatu	rood
+Saint Martin	rood
+Kazakhstan	groen
+Poland	rood
+Mauritania	geel
+Kyrgyzstan	geel
+Greece	rood
+Macedonia	groen
+North Korea	groen
+Trinidad and Tobago	blauw
+Latvia	blauw
+South Sudan	grijs
+Guyana	grijs
+Syria	geel
+Burma	blauw
+Honduras	geel
+Equatorial Guinea	grijs
+Tunisia	grijs
+Nicaragua	groen
+Singapore	rood
+Serbia	geel
+Comoros	geel
+United Kingdom	geel
+Iceland	grijs
+Sri Lanka	blauw
+Namibia	blauw
+Botswana	rood

@@ -1,0 +1,9 @@
+Antwerpen,470,668
+Bergen,92,175
+Brugge,117,117
+Brussel,136,960
+Charleroi,207,295
+Gent,231,251
+Kortrijk,76,114
+Luik,197,485
+Namen,104,104

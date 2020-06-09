@@ -1,0 +1,117 @@
+mathematics	Pythagoras	6th century BC	originator mathematics
+mathematics	Euclides	4th century BC	geometry
+mathematics	Hipparchos	2nd century BC	trigonometry
+mathematics	Ptolemeus	2nd century BC	model of solar system
+mathematics	Bashkara	7th century BC	idea for 0
+mathematics	Hieronymus Cardanus	1645	cubic functions
+mathematics	René Descartes	1637	analytical geometry
+mathematics	Blaise Pascal	1653	air pressure and arithmetic
+mathematics	Gottfried Leibniz	1684	calculus
+mathematics	Isaac Newton	1687	gravity, optics and differential calculus
+mathematics	Leonard Euler	1736	number theory and graph theory
+mathematics	Pierre Laplace	1825	celestial mechanics and statistics
+mathematics	Carl Friedrich Gauss	1828	Princeps Mathematoricum
+mathematics	Pierre-Simon Laplace	1796	Laplacetransformation
+mathematics	George Boole	1844	Boolean logics
+mathematics	Joseph Fourier	1822	Fourieranalyses
+mathematics	Bernhard Riemann	1854	complex analyses and number theory
+mathematics	Henri Poincaré	1887	topology and differentiating
+mathematics	Kurt Gödel	1930	logics and continuum hypothesis
+mathematics	Roger Penrose	1950	Penrose tiles and singularities
+mathematics	John Nash	1952	game theory and differential calculus
+mathematics	Edward Lorenz	1961	chaos theory
+mathematics	Paul Erdös	1963	the solver of issues
+mathematics	Benoit Mandelbrot	1975	fractals
+mathematics	Grigori Perelman	2006	proves conjecture of Poincaré
+chemistry	Robert Boyle	1661	The Sceptical Chymist
+chemistry	Joseph Priestley	1786	flogiston theory
+chemistry	Antoine Lavoisier	1795	oxygen oxidises
+chemistry	John Dalton	1803	atom theory
+chemistry	Amadeo Avogadro	1811	molecule theory
+chemistry	Jöns Jacob Berzelius	1828	stoechiometry
+chemistry	Friedrich Wöhler	1828	organic chemistry
+chemistry	Michael Faraday	1830	electrochemistry and electromagnetism
+chemistry	Justus von Liebig	1838	artificial fertilizer and organic chemistry
+chemistry	Friedrich Kekulé	1857	aromatic hydrocarbon
+chemistry	Dmitri Mendeleev	1869	periodic system
+chemistry	Johannes Diderik van der Waals	1871	thermodynamics and theoretical chemistry
+chemistry	Jacobus Henricus van 't Hoff	1874	solutions and stereochemistry
+chemistry	Marie Curie	1898	radioactive elements
+chemistry	Ernest Rutherford	1911	nucleus
+chemistry	Niels Bohr	1913	electro lanes
+chemistry	Leonard Baekeland	1907	polymers
+chemistry	Svante Arrhenius	1884	fysic chemistry
+chemistry	Irving Langmuir	1917	interfacial chemistry
+chemistry	Linus Pauling	1932	quantum chemistry
+chemistry	James Watson	1953	clarification DNA-structure
+chemistry	Ilya Prigogine	1955	self-organization and non-balance
+chemistry	Paul Crutzen	1985	atmospheric chemistry
+astronomy	Eratosthenes	3rd century BC	circumference earth
+astronomy	Hipparchos	2nd century BC	trigonometry
+astronomy	Ptolemeus	2nd century BC	model of solar system
+astronomy	Copernicus	1543	heliocentrism
+astronomy	Johannes Kepler	1595	geometry of the universe
+astronomy	Galileo Galilei	1616	heliocentrism
+astronomy	Christiaan Huygens	1655	saturn rings
+astronomy	Edmond Halley	1718	movement of stars
+astronomy	Isaac Newton	1687	gravity, optics and differential calculus
+astronomy	Pierre Laplace	1825	celestial mechanics and statistics
+astronomy	Carl Friedrich Gauss	1828	Princeps Mathematoricum
+astronomy	William Herschel	1781	discovery uranus
+astronomy	Charles Messier	1781	star catalogue
+astronomy	Albert Einstein	1916	relativity theory
+astronomy	Karl Schwarzchild	1915	Schwarz shield ray
+astronomy	Fred Hoyle	1948	steady-state-theory
+astronomy	Jan Hendrik Oort	1956	pioneer radioastronomy
+astronomy	John Archibald Wheeler	1957	wormholes
+astronomy	Allan Sandage	1961	definition Hubbleconstant
+astronomy	Roger Penrose	1950	Penrosetiles and singularities
+astronomy	Stephen Hawking	1974	radiation from black holes
+astronomy	Alan Harvey Guth	1980	cosmic inflation
+astronomy	Lee Smolin	1991	cosmic natural selection
+biology	Aristoteles	323 v. Chr.	universal scientist
+biology	Antoine Lavoisier	1795	oxygen oxidates
+biology	Jean-Baptiste Lamarck	1802	heredity
+biology	Carl Linneaus	1738	taxonomy
+biology	Charles Darwin	1859	evolution theory
+biology	Gregor Mendel	1865	heredity
+biology	Hugo de Vries	1890	concept of genes
+biology	Thomas Hunt Morgan	1910	chromosoms
+biology	Sydney Brenner	1961	RNA-biology
+biology	James Watson	1953	clarification DNA-structure
+biology	Ernst Mayr	1942	biological species
+biology	William Donald Hamilton	1964	evolution biology
+biology	Edward O. Wilson	1967	socio-biology
+biology	Stephen Jay Gould	1977	interrupted balances
+biology	Richard Lewontin	1978	adaptation
+physics	Galileo Galilei	1616	heliocentrism
+physics	Evangelista Torricelli	1644	barometer
+physics	Isaac Newton	1687	gravity, optics and differential calculus
+physics	Alessandro Volta	1800	accu
+physics	Michael Faraday	1830	electrochemistry and electromegnetism
+physics	James Maxwell	1861	electromagnetism and radiation
+physics	Max Planck	1900	quantumtheory
+physics	Niels Bohr	1913	electron lanes
+physics	Albert Einstein	1916	relativity theory
+physics	Erwin Schrödinger	1921	quantum mechanics
+physics	Werner Heisenberg	1925	insecurity principle
+physics	Enrico Fermi	1934	originator neutrino
+physics	Paul Dirac	1955	unification attempt quantumfysics and relativity theory
+physics	Peter Higgs	1960	Higgsmechanism
+physics	Murray Gell-Mann	1964	quarks
+physics	Steven Weinberg	1967	unification of nuclear forces
+physics	Martin Veltman en Gerard 't Hooft	1970	quantumstructure and electro-weak interaction
+physics	Leonard Susskind	1972	string theory
+physics	Michael Green en John Schwarz	1984	superstrings
+physics	Edward Witten	1995	superstrings
+physics	Makoto Kobayashi en Toshihide Maskawa	1995	topquark
+genomics	James Watson	1953	clarification DNA-structure
+genomics	Marshall Warren Nirenberg	1962	genetic code
+genomics	Frederick Sanger	1977	sequencing
+genomics	Kary Mullis	1983	polymerase-chain reaction
+genomics	Craig Venter	2000	clarification genome
+informatics	George Boole	1844	Boolean logics
+informatics	Alan Turing	1950	artificial intelligence
+informatics	Vincent Cerf	1970	Internet
+informatics	Tim Berners-Lee	1983	World-Wide Web
+informatics	Stephen Wolfram	1986	computing mathematics
