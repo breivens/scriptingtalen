@@ -14,7 +14,7 @@ class Inventory:
         assert isinstance(letter, str) and letter.isupper(), "invalid letter"
         assert letter not in self.listed, "letter already used"
 
-        num_words = ['ONE', 'TWO', 'THREE', 'FOUR', 'FIVE', 'SIX', 'SEVEN', 'EIGHT', 'NINE', 'TEN', 'ELEVEN', 'TWELVE']
+        num_words = 'ONE', 'TWO', 'THREE', 'FOUR', 'FIVE', 'SIX', 'SEVEN', 'EIGHT', 'NINE', 'TEN', 'ELEVEN', 'TWELVE'
         v, h = (0, 1) if position[0] == 'H' else (1, 0)  # directional offset
         r, c = [int(item) - 1 if item else -1 for item in position[1:].split(':')]  # row and column index
         tile = num_words[number - 1] + '-' + letter  # tile
@@ -36,11 +36,11 @@ class Inventory:
         return self.listed
 
     def observed_occurrences(self):
-        from collections import Counter
-        return dict(Counter(filter(str.isalpha, chain(*self.grid))))
+        grid = tuple(chain(*self.grid))
+        return {char: grid.count(char) for char in set(grid) if char.isalpha()}
 
     def complete(self):
-        return '#' not in chain(*self.grid)
+        return '#' not in set(chain(*self.grid))
 
     def self_descriptive(self):
         return self.complete() and self.listed_occurrences() == self.observed_occurrences()
