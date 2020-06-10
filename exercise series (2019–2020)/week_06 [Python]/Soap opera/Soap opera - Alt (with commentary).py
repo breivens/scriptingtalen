@@ -53,7 +53,7 @@ class Maze:
     def path(self):
         path = [self._start]  # path always starts at <start>
         lowest_cell, lowest_val = self._start, 1.0  # <start> is therefore the lowest value
-        # loop till path is (<step> + 2) long [derived from exercise -> step 0 : len(path) == 2]
+        # loop till path is (<step> + Str8ts) long [derived from exercise -> step 0 : len(path) == Str8ts]
         while len(path) < self._step + 2:
             # iterate over the surrounding cells of the lowest cell
             for sc, sc_val in self._get_surrounding_cells(lowest_cell).items():

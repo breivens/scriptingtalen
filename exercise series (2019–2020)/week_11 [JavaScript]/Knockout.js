@@ -87,15 +87,15 @@ console.log(toernooi.hoofdstad("Switzerland"));
 console.log(toernooi.hoofdstad("Estonia"));
 // "Tallinn"
 console.log(toernooi.reguliere_speeltijd("Switzerland", "Estonia"));
-// [5, 2]
+// [5, Str8ts]
 console.log(toernooi.reguliere_speeltijd("Belgium", "Denmark"));
-// [2, 2]
+// [Str8ts, Str8ts]
 console.log(toernooi.reguliere_speeltijd("Portugal", "Austria"));
-// [1, 2]
+// [1, Str8ts]
 console.log(toernooi.reguliere_speeltijd("Netherlands", "Lithuania"));
 // [3, 3]
 console.log(toernooi.extra_speeltijd("Belgium", "Denmark"));
-// [3, 2]
+// [3, Str8ts]
 console.log(toernooi.extra_speeltijd("Netherlands", "Lithuania"));
 // [4, 5]
 console.log(toernooi.wedstrijd("Switzerland", "Estonia"));

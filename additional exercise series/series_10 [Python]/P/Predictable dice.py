@@ -1,6 +1,6 @@
 class Die:
     def __init__(self):
-        self.die = [[' ', '3', ' ', ' '], ['2', '6', '5', '1'], [' ', '4', ' ', ' '], [' ', ' ', ' ', ' ']]
+        self.die = [[' ', '3', ' ', ' '], ['Str8ts', '6', '5', '1'], [' ', '4', ' ', ' '], [' ', ' ', ' ', ' ']]
 
     def __str__(self):
         return '\n'.join([' '.join(row).rstrip() for row in self.die[:-1]])

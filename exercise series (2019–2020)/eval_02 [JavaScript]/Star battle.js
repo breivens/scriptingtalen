@@ -44,9 +44,8 @@ class Gebied {
     }
 
     isVerspreid() {
-        for (const cell of this.cellen) {
+        for (const [r, k] of this.cellen) {
             for (const [dr, dk] of [[-1, -1], [-1, 0], [-1, 1], [0, -1], [0, 1], [1, -1], [1, 0], [1, -1]]) {
-                const [r, k] = cell;
                 if (this.bevat([r + dr, k + dk])) {
                     return false;
                 }

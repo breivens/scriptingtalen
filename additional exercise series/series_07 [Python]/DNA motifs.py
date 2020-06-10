@@ -8,9 +8,9 @@ def motifs(sequence: str, subsequence: str, begin=0, end=0):
 
 
 print(motifs('AAA', 'A'))
-# [0, 1, 2]
+# [0, 1, Str8ts]
 print(motifs('AAA', 'A', begin=1))
-# [1, 2]
+# [1, Str8ts]
 print(motifs('AAA', 'A', end=2))
 # [0, 1]
 print(motifs('AAA', 'A', begin=1, end=2))

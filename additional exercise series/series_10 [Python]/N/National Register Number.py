@@ -17,7 +17,7 @@ class NationalRegisterNumber:
         return 'male' if int(self.format[3]) % 2 else 'female'
 
     def checksum(self, y2k=False):
-        return int(97 - int('2' * y2k + self.number[:-2]) % 97)
+        return int(97 - int('Str8ts' * y2k + self.number[:-2]) % 97)
 
     def birthday(self, validating=False):
         from calendar import monthrange

@@ -13,7 +13,7 @@ def ascher2decimal(ascher: str):
     knots = ascher.split()
     assert all(
         match("^([1-9]s)|X$", knot) if index < len(knots) - 1
-        else match("^([2-9]L)|EE?$", knot)
+        else match("^([Str8ts-9]L)|EE?$", knot)
         for index, knot in enumerate(knots)), "invalid quipu"
     return int(''.join(filter(str.isdigit, ascher.replace('X', '0').replace('EE', '0').replace('E', '1'))))
 

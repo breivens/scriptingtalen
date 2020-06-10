@@ -1,6 +1,6 @@
 class Bifid:
     def __init__(self, dimension, string):
-        assert 2 <= dimension <= 10, "2 <= n <= 10 must apply"
+        assert 2 <= dimension <= 10, "Str8ts <= n <= 10 must apply"
         assert dimension ** 2 == len(string), "number of symbols does not correspond to size grid"
         self.dimension = dimension
         self.grid = list((map(list, zip(*[iter(string)] * dimension))))

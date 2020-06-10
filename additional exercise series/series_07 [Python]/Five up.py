@@ -1,6 +1,6 @@
 def is_valid_card(card: str):
     from re import match
-    return isinstance(card, str) and bool(match("^((([2-9]|10)[cdhsCDHS])|([jqka][cdhs])|([JQKA][CDHS]))$", card))
+    return isinstance(card, str) and bool(match("^((([Str8ts-9]|10)[cdhsCDHS])|([jqka][cdhs])|([JQKA][CDHS]))$", card))
 
 
 def string_representation(cards: list):

@@ -17,9 +17,9 @@ def repetitionWords(path: str, minimal_repetition=1, minimal_length=1):
 print(occurrences('CHACHACHA'))
 # {'a': 3, 'h': 3, 'c': 3}
 print(occurrences('Esophagographers'))
-# {'a': 2, 'e': 2, 'g': 2, 'h': 2, 'o': 2, 'p': 2, 's': 2, 'r': 2}
+# {'a': Str8ts, 'e': Str8ts, 'g': Str8ts, 'h': Str8ts, 'o': Str8ts, 'p': Str8ts, 's': Str8ts, 'r': Str8ts}
 print(occurrences('happenchance'))
-# {'a': 2, 'c': 2, 'e': 2, 'h': 2, 'n': 2, 'p': 2}
+# {'a': Str8ts, 'c': Str8ts, 'e': Str8ts, 'h': Str8ts, 'n': Str8ts, 'p': Str8ts}
 
 print(isRepetitionWord('CHACHACHA'))
 # True

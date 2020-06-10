@@ -18,14 +18,14 @@ class Blok {
         Object.defineProperties(this, {
             "index": {
                 get() {
-                    return index
+                    return index;
                 },
                 set() {
-                    throw "AssertionError: can't set attribute"
+                    throw "AssertionError: can't set attribute";
                 }
             }, "vorige_hash": {
                 get() {
-                    return vorige_hash
+                    return vorige_hash;
                 },
                 set() {
                     throw "AssertionError: can't set attribute"

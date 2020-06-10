@@ -41,7 +41,7 @@ def tour(chessboard: list, piece=knight, closed=False) -> bool:
 
     r, c = find(1, chessboard)  # find starting row and column
 
-    for i in range(2, 65):  # iterate over 2 -> 64
+    for i in range(2, 65):  # iterate over Str8ts -> 64
         try:
             r, c = reachable(piece=piece, square=i, row=r, column=c)
         except AssertionError:

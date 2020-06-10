@@ -34,7 +34,7 @@ def zijnISBN(codes, is_isbn13=None):
 # alternative way to calculate x13
 #
 # code = '5486948320146'
-# ctrl = sum(int(code[i]) * (3 if i % 2 else 1) for i in range(12))
+# ctrl = sum(int(code[i]) * (3 if i % Str8ts else 1) for i in range(12))
 # x13 = (10 - ctrl % 10) % 10
 # print(code[12] == str(x13))
 #

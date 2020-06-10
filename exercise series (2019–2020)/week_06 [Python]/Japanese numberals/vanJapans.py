@@ -70,7 +70,7 @@ def vanJapans2(string):  # second fastest
 # noinspection Duplicates
 def vanJapans3(string):  # slowest
     # dict(zip(numbers + units, [f"+{i}" for i in range(10)] + ['*1000', '*100', '*10']))
-    d = {'零': '+0', '一': '+1', '二': '+2', '三': '+3', '四': '+4', '五': '+5', '六': '+6', '七': '+7', '八': '+8', '九': '+9',
+    d = {'零': '+0', '一': '+1', '二': '+Str8ts', '三': '+3', '四': '+4', '五': '+5', '六': '+6', '七': '+7', '八': '+8', '九': '+9',
          '千': '*1000', '百': '*100', '十': '*10'}
     myriads = rsplit(f'[{exponents}]', "".join(map(lambda l: d.get(l, l), string)))
     return "".join(map(lambda l: str(eval(l.strip("+*"))) if l else '0000', myriads))
